@@ -8,7 +8,7 @@ The GitHub app for minimalists.  [HomePage](https://awmleer.github.io/GitPub/ind
 
 ## Overview
 
-GitPub is built with [ionic](https://ionicframework.com/) framework (Angular+typescript+cordova), and uses GitHub api v4. Thanks to Angular's aot compilation, the iOS app/Android apk has an incredible small size (about 3~5M), while offering quite a few features.
+GitPub is built with [ionic](https://ionicframework.com/) framework (Angular+typescript+cordova), and GitHub api v4 is also used. Thanks to Angular's aot compilation, the iOS app/Android apk is incredible small in size (about 3~5M), while offering quite a few features.
 
  Feel free to open issues if you find any bug or have any idea about GitPub.
 
